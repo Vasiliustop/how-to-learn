@@ -17,6 +17,7 @@
     position: relative;
     display: flex;
     padding-left: 64px;
+    z-index: 2;
 
     /* выше установили ограничения для секции */
   }
@@ -36,8 +37,7 @@
     display: flex;
     align-items: center;
     margin: 0;
-    position: relative;
-    z-index: 5;
+    z-index: 4;
   }
 
   .logo_place_header {
@@ -280,9 +280,8 @@
     width: 877px;
     height: 877px;
     top: 0;
-    right: 0px;
+    right: -210px;
     z-index: 0;
-    background-position: right -210px top 0;
     background-size: cover;
   }
 
