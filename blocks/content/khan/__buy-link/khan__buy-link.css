@@ -6,10 +6,10 @@
   margin: 0 0 0 48px;
   text-decoration: none;
   vertical-align: top;
- 
+
 }
 
 .khan__buy-link:hover {
   opacity: .4;
-  transition: 3s ;
+  transition: 3s;
 }
