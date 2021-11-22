@@ -4,5 +4,5 @@
 }
 
 .cards__item:nth-child(3n) {
-margin: 0;
+  margin: 0;
 }
